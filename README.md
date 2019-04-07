@@ -3,7 +3,7 @@
 
 ## Description
 In this repository, we conduct the programing exercise for Kotlin language.  
-This exercise treat past exercise for Java language.
+This exercise treat past exercise for Java language on my university.
 
 
 ## License
